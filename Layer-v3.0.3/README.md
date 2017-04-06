@@ -1,8 +1,8 @@
-百度地图
+Layer弹出层
 ----
-百度地图JavaScript API是一套由JavaScript语言编写的应用程序接口，可帮助您在网站中构建功能丰富、交互性强的地图应用，支持PC端和移动端基于浏览器的地图应用开发，且支持HTML5特性的地图开发。
+layer是一款近年来备受青睐的web弹层组件，她具备全方位的解决方案，致力于服务各水平段的开发人员，您的页面会轻松地拥有丰富友好的操作体验。
 
-[官方地址](http://lbsyun.baidu.com/index.php?title=jspopular)
+[官方地址](http://layer.layui.com/)
   
  ## 预览
- ![Maps](https://github.com/WispYs/Web-Plugins/blob/master/img/map.png "Maps")
+ ![Layer](https://github.com/WispYs/Web-Plugins/blob/master/img/layer.png "Layer")
