@@ -1,7 +1,12 @@
  Simditor 
 ====
   Simditor 是团队协作工具 Tower 使用的富文本编辑器。
- -------
+  
+  [官方地址](http://simditor.tower.im/)
+  
+ ## 预览
+ ![Simditor](https://github.com/WispYs/Web-Plugins/blob/master/img/simditor.png "Simditor")
+
   相比传统的编辑器它的特点是：
   * 功能精简，加载快速
   * 输出格式化的标准 HTML
