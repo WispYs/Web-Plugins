@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/jqthumb.min.js"></script>
+    <style>
+        .box0{margin:20px auto;width:400px;}
+        .box1,.box2{margin:20px auto;width:300px;}
+        p{text-align: center;}
+    </style>
+    <script>
+        $(function(){
+            $('.box2 img').jqthumb({
+                width: 300,
+                height: 150,
+                after: function(imgObj){
+                    imgObj.css('opacity', 0).animate({opacity: 1}, 2000);
+                }
+            });
+        });
+    </script>
+    <body>
+        <div class="box0">
+            <img src="images/miku.jpg" width="400" alt="">
+            <p>原图</p>
+        </div>
+        <div class="box1">
+            <img src="images/miku.jpg" width="300" height="150" alt="">
+            <p>未处理(图片拉伸)</p>
+        </div>
+        <div class="box2">
+            <img src="images/miku.jpg" alt="">
+            <p>处理后(图片没有拉伸)</p>
+        </div>
+
+    </body>
+</html>
