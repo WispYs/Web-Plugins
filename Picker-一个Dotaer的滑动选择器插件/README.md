@@ -7,7 +7,7 @@
 
 [官方地址](http://ustbhuangyi.github.io/picker/)
 
-##Fetures##
+## Fetures
 - 支持单列、多列选择
 - 支持动态更新每列的数据
 
