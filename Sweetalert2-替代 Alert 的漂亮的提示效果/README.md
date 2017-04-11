@@ -10,7 +10,7 @@ SweetAlert2
 [![PayPal Donate](https://img.shields.io/badge/donate-PayPal.me-ff69b4.svg)](https://www.paypal.me/limonte/5)
 
 Sweet Alert 是一个替代传统的 JavaScript Alert 的漂亮提示效果。SweetAlert 自动居中对齐在页面中央，不管您使用的是台式电脑，手机或平板电脑看起来效果都很棒。另外提供了丰富的自定义配置选择，可以灵活控制。
----------------------------------------------------------
+
 
 
 [Demo](https://limonte.github.io/sweetalert2/)
