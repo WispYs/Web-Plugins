@@ -25,5 +25,6 @@ blank.gif 是一个 1 x 1 的图片，用做默认图片，data-echo 的属性�
 			throttle: 0
 		});
 ## 参数
-`offset`	离可视区域多少像素的图片可以被加载;
+`offset`	离可视区域多少像素的图片可以被加载
+
 `throttle`	图片延迟多少毫秒加载;
