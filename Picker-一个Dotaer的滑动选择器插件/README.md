@@ -1,7 +1,9 @@
-# picker
+# Picker
 [![npm](https://img.shields.io/npm/v/better-picker.svg?style=flat-square)](https://www.npmjs.com/package/better-picker)
 
 移动端最好用的的筛选器组件，高仿 ios 的 UIPickerView ，非常流畅的体验。
+
+### 讲道理Dotaer写的插件要支持的呀！
 
 [官方地址](http://ustbhuangyi.github.io/picker/)
 
@@ -9,15 +11,13 @@
 - 支持单列、多列选择
 - 支持动态更新每列的数据
 
-## 依赖（无）##
-~~picker依赖[zepto](http://zeptojs.com/)和[gmu](http://gmu.baidu.com/)；
-**注意**:gmu.js请使用demo里的[gmu.js](https://github.com/ustbhuangyi/picker/blob/master/demo/gmu.js)，gmu的基础库，和官网的略有不同。~~
+## 依赖（无）
 
 1.x 版本不再依赖任何 3 方库，原生 JS 实现，可以直接使用
 
-## 如何使用##
+## 如何使用
 
-### 通过npm引入 ###
+### 通过npm引入
 
 安装better-picker
 
