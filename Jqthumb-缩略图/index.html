@@ -12,9 +12,9 @@
     </style>
     <script>
         $(function(){
-            $('.box2 img').jqthumb({
+            $('.box2img').jqthumb({
                 width: 300,
-                height: 150,
+                height: 100,
                 after: function(imgObj){
                     imgObj.css('opacity', 0).animate({opacity: 1}, 2000);
                 }
@@ -31,7 +31,7 @@
             <p>未处理(图片拉伸)</p>
         </div>
         <div class="box2">
-            <img src="images/miku.jpg" alt="">
+            <img class="box2img" src="images/miku.jpg" alt="">
             <p>处理后(图片没有拉伸)</p>
         </div>
 
