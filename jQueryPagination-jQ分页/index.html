@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="pagination.css">
+    <!-- <link rel="stylesheet" href="css/demo.css" /> -->
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.pagination.js"></script>
+    <script type="text/javascript">
+    // When document has loaded, initialize pagination and form 
+    $(document).ready(function() {
+        $("#Pagination").pagination("100");
+    });
+    </script>
+    <body>
+        <div class="pages" style="float:left">
+        
+            <div id="Pagination"></div>
+            <div class="searchPage">
+              <span class="page-sum">共<strong class="allPage">151</strong>页</span>
+              <span class="page-go">跳转<input type="text">页</span>
+              <a href="javascript:;" class="page-btn">GO</a>
+            </div>
+        </div>
+    </body>
+</html>
