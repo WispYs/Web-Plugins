@@ -8,7 +8,7 @@ jQueryPagination-jQ分页
 [官方地址](http://www.jq22.com/jquery-info3813)
   
  ## 预览
- ![Page](https://github.com/WispYs/Web-Plugins/blob/master/img/page.png "Page")
+ ![jqueryPagnition](https://github.com/WispYs/Web-Plugins/blob/master/img/jqueryPagnition.png "jqueryPagnition")
  
  ### 标注
  回调函数
