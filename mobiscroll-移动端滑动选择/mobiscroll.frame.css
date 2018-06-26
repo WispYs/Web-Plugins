@@ -12,16 +12,16 @@
     -webkit-text-size-adjust: 100%;
 }
 
-.mbsc-fr-lock {
+/* .mbsc-fr-lock {
     -ms-touch-action: none;
     touch-action: none;
-}
+} */
 
 .mbsc-fr-lock-ctx {
     position: relative;
 }
 
-.mbsc-fr-lock.mbsc-fr-lock-ios {
+/* .mbsc-fr-lock.mbsc-fr-lock-ios {
     overflow: hidden;
     position: absolute;
     top: 0;
@@ -29,7 +29,7 @@
     left: 0;
     right: 0;
     height: auto;
-}
+} */
 
 .mbsc-fr-scroll {
     position: relative;
@@ -99,6 +99,7 @@
     bottom: 0;
     left: 0;
     right: 0;
+    z-index:100;
 }
 
 .mbsc-fr-lock-ctx > .mbsc-fr,
@@ -290,7 +291,7 @@
     min-width: 16em;
     background: #f7f7f7;
     color: #454545;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .mbsc-mobiscroll .mbsc-fr-hdr {
@@ -312,7 +313,14 @@
 
 .mbsc-mobiscroll .mbsc-fr-btn-w {
     display: block;
+}
+.mbsc-mobiscroll .mbsc-fr-btn-c{
+    float: left;
+    font-size: 1.1em;
+}
+.mbsc-mobiscroll .mbsc-fr-btn-s{
     float: right;
+    font-size: 1.1em;
 }
 
 .mbsc-mobiscroll .mbsc-rtl .mbsc-fr-btn-w {
@@ -323,7 +331,7 @@
     height: 2.5em;
     line-height: 2.5em;
     padding: 0 1em;
-    color: #4eccc4;
+    color: #499DF2;
     text-transform: uppercase;
 }
 

@@ -270,8 +270,8 @@
 }
 
 .mbsc-mobiscroll .mbsc-sc-whl-l {
-    border-top: 1px solid #4eccc4;
-    border-bottom: 1px solid #4eccc4;
+    border-top: 1px solid #499DF2;
+    border-bottom: 1px solid #499DF2;
 }
 
 .mbsc-mobiscroll .mbsc-sc-btn {
@@ -290,7 +290,7 @@
 
 .mbsc-mobiscroll .mbsc-sc-itm {
     padding: 0 .25em;
-    font-size: 1.375em;
+    font-size: 1.1em;
 }
 
 .mbsc-mobiscroll .mbsc-sc-itm.mbsc-btn-a {

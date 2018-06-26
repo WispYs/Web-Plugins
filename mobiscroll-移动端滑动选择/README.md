@@ -6,3 +6,5 @@ Jquery mobiscroll 滑动、滚动选择
   
  ## 预览
  ![Mobiscroll](https://github.com/WispYs/Web-Plugins/blob/master/img/mobiscroll.png "Mobiscroll")
+ 
+ ![Mobiscroll](https://github.com/WispYs/Web-Plugins/blob/master/img/mobiscroll2.png "Mobiscroll")
